@@ -32,7 +32,7 @@
     "_prepublish": "npm run snyk-protect"
   },
   "dependencies": {
-    "async": "~0.1.22",
+    "async": "~2.6.4",
     "asyncjs": "0.0.7",
     "aws-sdk": "^2.0.18",
     "axon": "^2.0.3",
